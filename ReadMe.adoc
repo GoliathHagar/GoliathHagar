@@ -7,6 +7,9 @@ A passionate EH and backend developer +
 🤝 I’m looking for help with +
 🌱 I’m currently learning +
 💬 Ask me about<br>⚡ Fun fact
+👀 I’m interested in ...
+🌱 I’m currently learning ...
+📫 How to reach me ...
 
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhagar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark[]
 image::https://github-profile-trophy.vercel.app/?username=goliathhagar[]
