@@ -3,7 +3,7 @@
 🎮 I am working as *Software Engineer* +
 👀 I’m interested in *Building* and *Breaking* (*Hacking and CTF*) Software and not only +
 🤝 I’m looking for help with *Mobile* *_UI Design_* +
-🌱 I’m currently learning *CodeQL*,  +
+🌱 I’m currently learning *CodeQL* +
 
 ////
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhagar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark[]
