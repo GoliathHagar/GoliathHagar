@@ -1,10 +1,14 @@
+
+[.text-center]
 == Hi There 👋, I'm GoliathHagar
 
+[.text-left]
 🎮 I am working as *Software Engineer* +
-👀 I’m interested in *Building* and *Breaking* (*Hacking and CTF*) Software and not only +
+👀 I’m interested in *Building* and *Breaking* (*Hacking and CTF*) Software and *NOT ONLY* !!! +
 🤝 I’m looking for help with *Mobile* *_UI Design_* +
 🌱 I’m currently learning *CodeQL* +
 
+[.text-right]
 https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[image:https://img.shields.io/badge/Made%20with-Ascii_Doc-E40046?style=for-the-badge&logo=asciidoctor&logoColor=E40046[]]
 ////
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhagar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark[]
@@ -25,15 +29,18 @@ image:exploits_of_a_mom.png[]
 
 === Cybersecurity Projects
 
-https://github.com/GoliathHagar/cryptography-training[image:https://img.shields.io/badge/Cryptography-000?style=for-the-badge&logo=1password&logoColor=3B66BC[]]
+https://github.com/GoliathHagar/cryptography-training[image:https://img.shields.io/badge/Breaking_Cryptography-000?style=for-the-badge&logo=1password&logoColor=3B66BC[]]
 https://github.com/GoliathHagar/distributed_legder_kademlia[image:https://img.shields.io/badge/Kademlia_Public_ledger-000?style=for-the-badge&logo=osf&logoColor=2CB9F1[]]
 
-== Favorites Operating systems
-image:https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white[]
-image:https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white[]
+== Top Operating Systems
+https://www.kali.org[image:https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white[]]
+https://parrotsec.org[image:https://img.shields.io/badge/Parrot_os-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white[]]
+https://ubuntu.com[image:https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white[]]
+https://fedoraproject.org[image:https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white[]]
+https://www.redhat.com/en[image:https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white[]]
+https://www.android.com[image:https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white[]]
 image:https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white[]
-image:https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white[]
-image:https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white[]
+image:https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=ios&logoColor=white[]
 
 
 === Languages
