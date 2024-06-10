@@ -9,9 +9,29 @@
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhagar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark[]
 image::https://github-profile-trophy.vercel.app/?username=goliathhagar[] QL
 ////
+== Hi 👋, I'm GoliathHagar
+
+🎮 I am working as *Software Engineer* +
+👀 I’m interested in *Building* and *Breaking* (*Hacking and CTF*) Software and not only +
+🤝 I’m looking for help with *Mobile* *_UI Design_* +
+🌱 I’m currently learning *CodeQL* +
+
+////
+image:https://img.shields.io/badge/Top%20Languages-Dark[]
+image:https://img.shields.io/badge/Github%20Profile%20Trophy-QL[]
+////
 
 Something interesting... +
 image:exploits_of_a_mom.png[]
+
+
+////
+[source, html]
+++++
+<img src="https://readme-jokes.vercel.app/api" alt="">
+++++
+////
+
 
 === Cybersecurity Projects
 
@@ -20,69 +40,79 @@ https://github.com/GoliathHagar/distributed_legder_kademlia[
 image:resource/p2p.png[P2p,40,40]
  kademlia & Blockchain]
 
+== Favorites Operating systems
+image:https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white[]
+image:https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white[]
+image:https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white[]
+image:https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white[]
+image:https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white[]
+
 
 === Languages
 
-https://www.python.org[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg[python,40,40]]
-https://www.java.com[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg[java,40,40]]
-https://www.rust-lang.org[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg[rust,40,40]]
-https://kotlinlang.org[image:https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg[kotlin,40,40]]
-https://www.gnu.org/software/bash/[image:https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg[bash,40,40]]
-https://www.cprogramming.com/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg[c,40,40]]
-https://www.w3schools.com/cpp/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg[cplusplus,40,40]]
-https://www.php.net[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg[php,40,40]]
-https://dart.dev[image:https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg[dart,40,40]]
-https://www.typescriptlang.org/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg[typescript,40,40]]
-https://developer.mozilla.org/en-US/docs/Web/JavaScript[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg[javascript,40,40]]
-https://www.mathworks.com/[image:https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png[matlab,40,40]]
-https://en.wikipedia.org/wiki/Assembly_language[image:https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/assemblyscript.svg[assembly,40,40]]
+https://www.python.org[image:https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&cornerRadius=10[]]
+https://www.java.com[image:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white[]]
+https://www.rust-lang.org[image:https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white[]]
+https://kotlinlang.org[image:https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white[]]
+https://www.gnu.org/software/bash/[image:https://img.shields.io/badge/Gnu_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white[]]
+https://www.cprogramming.com/[image:https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white[]]
+https://www.w3schools.com/cpp/[image:https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white[]]
+https://www.php.net[image:https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white[]]
+https://dart.dev[image:https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white[]]
+https://www.typescriptlang.org/[image:https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white[]]
+https://developer.mozilla.org/en-US/docs/Web/JavaScript[image:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black[]]
+https://www.mathworks.com/[image:https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white[]]
+https://en.wikipedia.org/wiki/Assembly_language[image:https://img.shields.io/badge/Assembly-00979D?style=for-the-badge&logo=assemblyscript&logoColor=white[]]
+
 
 === Databases
 
-https://www.mysql.com/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg[mysql,40,40]]
-https://www.postgresql.org[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg[postgresql,40,40]]
-https://www.oracle.com/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg[oracle,40,40]]
-https://www.mongodb.com/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg[mongodb,40,40]]
-https://redis.io[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg[redis,40,40]]
-https://mariadb.org/[image:https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg[mariadb,40,40]]
-https://www.sqlite.org/[image:https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg[sqlite,40,40]]
+https://www.mysql.com/[image:https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white[]]
+https://www.postgresql.org[image:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white[]]
+https://www.oracle.com/[image:https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white[]]
+https://www.mongodb.com/[image:https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white[]]
+https://redis.io[image:https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white[]]
+https://mariadb.org/[image:https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white[]]
+https://www.sqlite.org/[image:https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white[]]
 
-=== DevOps nd Cloud
+=== DevOps and Cloud
 
-https://git-scm.com/[image:https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg[git,40,40]]
-https://www.jenkins.io[image:https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg[jenkins,40,40]]
-https://www.docker.com/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg[docker,40,40]]
-https://kubernetes.io[image:https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg[kubernetes,40,40]]
-https://azure.microsoft.com/en-in/[image:https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg[azure,40,40]]
-https://cloud.google.com[image:https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg[gcp,40,40]]
-https://www.vagrantup.com/[image:https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg[vagrant,40,40]]
+https://git-scm.com/[image:https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white[]]
+https://www.jenkins.io[image:https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white[]]
+https://www.docker.com/[image:https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white[]]
+https://kubernetes.io[image:https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white[]]
+https://azure.microsoft.com/en-in/[image:https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white[]]
+https://cloud.google.com[image:https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white[]]
+https://www.vagrantup.com/[image:https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white[]]
 
 === Web Development
 
-https://spring.io/[image:https://www.vectorlogo.zone/logos/springio/springio-icon.svg[spring,40,40]]
-https://angular.io[image:https://angular.io/assets/images/logos/angular/angular.svg[angular,40,40]]
-https://www.djangoproject.com/[image:https://cdn.worldvectorlogo.com/logos/django.svg[django,40,40]]
-https://nodejs.org[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg[nodejs,40,40]]
-https://www.w3.org/html/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg[html5,40,40]]
-https://www.w3schools.com/css/[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg[css3,40,40]]
-https://getbootstrap.com[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg[bootstrap,40,40]]
+https://spring.io/[image:https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white[]]
+https://angular.io[image:https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white[]]
+https://www.djangoproject.com/[image:https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white[]]
+https://nodejs.org[image:https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white[]]
+https://www.w3.org/html/[image:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white[]]
+https://www.w3schools.com/css/[image:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white[]]
+https://getbootstrap.com[image:https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white[]]
 
 === Mobile Development
 
-https://flutter.dev[image:https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg[flutter,40,40]]
-https://developer.android.com[image:https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg[android,40,40]]
-https://dotnet.microsoft.com/apps/xamarin[image:https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg[xamarin,40,40]]
+https://flutter.dev[image:https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white[]]
+https://developer.android.com[image:https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white[]]
+https://dotnet.microsoft.com/apps/xamarin[image:https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white[]]
 
 === Design Tools
 
-https://www.figma.com/[image:https://www.vectorlogo.zone/logos/figma/figma-icon.svg[figma,40,40]]
+https://www.figma.com/[image:https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white[]]
 
 === Other Tools and Technologies
 
-https://kafka.apache.org/[image:https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg[kafka,40,40]]
-https://firebase.google.com/[image:https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg[firebase,40,40]]
-https://grafana.com[image:https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg[grafana,40,40]]
-https://www.elastic.co/kibana[image:https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg[kibana,40,40]]
-https://opencv.org/[image:https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg[opencv,40,40]]
-https://pandas.pydata.org/[image:https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg[pandas,40,40]]
-https://www.tensorflow.org[image:https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg[tensorflow,40,40]]
+http://ansible.org[image:https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white[]]
+http://jwt.io[image:https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens[]]
+https://kafka.apache.org/[image:https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white[]]
+https://firebase.google.com/[image:https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black[]]
+https://grafana.com[image:https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white[]]
+https://www.elastic.co/kibana[image:https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white[]]
+https://opencv.org/[image:https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white[]]
+https://pandas.pydata.org/[image:https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white[]]
+https://www.tensorflow.org[image:https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white[]]
