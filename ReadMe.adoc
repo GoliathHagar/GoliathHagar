@@ -5,7 +5,7 @@
 🤝 I’m looking for help with *Mobile* *_UI Design_* +
 🌱 I’m currently learning *CodeQL* +
 
-https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[image:https://img.shields.io/badge/Made%20with-Ascii%20Doc-1f425f.svg[]]
+https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[image:https://img.shields.io/badge/Made%20with-Ascii_Doc-E40046?style=for-the-badge&logo=asciidoctor&logoColor=E40046[]]
 ////
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhagar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark[]
 image::https://github-profile-trophy.vercel.app/?username=goliathhagar[] QL
