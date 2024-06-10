@@ -1,6 +1,6 @@
 :text-align:
 
-[.text-center]
+
 == Hi There 👋, I'm GoliathHagar
 
 [.text-left]
@@ -15,7 +15,7 @@ https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[image:https
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhagar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark[]
 image::https://github-profile-trophy.vercel.app/?username=goliathhagar[] QL
 ////
-
+[.text-center]
 Something interesting... +
 image:{docdir}/resource/exploits_of_a_mom.png[]
 
@@ -27,13 +27,14 @@ image:{docdir}/resource/exploits_of_a_mom.png[]
 ++++
 ////
 
-
+[.text-center]
 === Cybersecurity Projects
 
 https://github.com/GoliathHagar/cryptography-training[image:https://img.shields.io/badge/Breaking_Cryptography-000?style=for-the-badge&logo=1password&logoColor=3B66BC[]]
 https://github.com/GoliathHagar/distributed_legder_kademlia[image:https://img.shields.io/badge/Kademlia_Public_ledger-000?style=for-the-badge&logo=osf&logoColor=2CB9F1[]]
 
-== Top Operating Systems
+
+=== Top Operating Systems
 https://www.kali.org[image:https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white[]]
 https://parrotsec.org[image:https://img.shields.io/badge/Parrot_os-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white[]]
 https://ubuntu.com[image:https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white[]]
