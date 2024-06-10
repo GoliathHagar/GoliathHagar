@@ -1,3 +1,4 @@
+:text-align:
 
 [.text-center]
 == Hi There 👋, I'm GoliathHagar
