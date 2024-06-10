@@ -97,6 +97,13 @@ https://www.w3.org/html/[image:https://img.shields.io/badge/HTML5-E34F26?style=f
 https://www.w3schools.com/css/[image:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white[]]
 https://getbootstrap.com[image:https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white[]]
 
+=== Prototyping Platforms
+image:https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white[]
+image:https://img.shields.io/badge/TI_LaunchPad-000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxuczp4PSJuc19leHRlbmQ7IiB4bWxuczppPSJuc19haTsiIHhtbG5zOmdyYXBoPSJuc19ncmFwaHM7IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDQ0LjMgNDMiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDQ0LjMgNDM7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI%2BCiAgLnN0MHtmaWxsOiNGRkZGRkY7fQogPC9zdHlsZT4KIDxtZXRhZGF0YT4KICA8c2Z3IHhtbG5zPSJuc19zZnc7Ij4KICAgPHNsaWNlcz4KICAgPC9zbGljZXM%2BCiAgIDxzbGljZVNvdXJjZUJvdW5kcyBib3R0b21MZWZ0T3JpZ2luPSJ0cnVlIiBoZWlnaHQ9IjQzIiB3aWR0aD0iNDQuMyIgeD0iLTcuNyIgeT0iLTAuMyI%2BCiAgIDwvc2xpY2VTb3VyY2VCb3VuZHM%2BCiAgPC9zZnc%2BCiA8L21ldGFkYXRhPgogPGc%2BCiAgPHBhdGggY2xhc3M9InN0MCIgZD0iTTQxLjgsMTMuNVY4LjJoLTguNmwtMS4xLDUuNGgzLjFsLTEsNWgtMy4xbC0xLjEsNS40Yy0wLjEsMC40LTAuMSwwLjYtMC4yLDAuOWMtMC4zLDEuNywwLjUsMS42LDIuOCwxLjYKCQlsLTEuMSw1LjNoLTRjLTMuOCwwLTYuOSwwLTYuMS00YzAuMS0wLjYsMC4zLTEuMiwwLjQtMS44bDEuNC03LjRoLTNsMS01aDNsMS4xLTUuNGgtMi44VjBIMTIuM3YxNi42SDBjMC4zLDQuMyw0LjEsNC45LDUuNSw4CgkJYzEsMi4xLDEuOCw1LjgsNC42LDUuOGMyLjEsMCwyLjEtMi44LDQuOS0yLjhjMi43LDAsNCw1LjIsNi40LDkuNWMxLjgsMy40LDQuOSw1LjYsNy42LDUuOGMyLjMsMC4yLDMuNC0wLjYsMy40LTAuNgoJCWMtMC42LTEuMi0wLjktMi41LTAuOS00LjNjMC0yLjgsMi4xLTUuNSw0LjYtNy40YzMuNC0yLjUsNy0zLjQsOC4yLTMuN3YtOC42QzQ0LjMsMTguNCw0MS44LDE3LjEsNDEuOCwxMy41eiBNMjcuOCwyNi40bDMuNi0xOC4yCgkJaC00LjJsLTMuNiwxOC4ySDI3Ljh6IE0zMi41LDIuNGgtNC4ybC0wLjgsNGg0LjJMMzIuNSwyLjR6Ij4KICA8L3BhdGg%2BCiA8L2c%2BCjwvc3ZnPg%3D%3D&logoColor=DD0031&color=DD0031[]
+image:https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white[]
+image:https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white[]
+image:https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white[]
+
 === Mobile Development
 
 https://flutter.dev[image:https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white[]]
@@ -120,4 +127,11 @@ https://pandas.pydata.org/[image:https://img.shields.io/badge/Pandas-150458?styl
 https://www.tensorflow.org[image:https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white[]]
 
 
+
+////
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://shields.io/docs/logos
+https://simpleicons.org
+https://shields.io/badges
+////
 
