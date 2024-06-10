@@ -16,7 +16,7 @@ image::https://github-profile-trophy.vercel.app/?username=goliathhagar[] QL
 ////
 
 Something interesting... +
-image:exploits_of_a_mom.png[]
+image:{docdir}/resource/exploits_of_a_mom.png[]
 
 
 ////
