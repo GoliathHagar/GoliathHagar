@@ -1,24 +1,14 @@
-== Hi 👋, I'm GoliathHagar
+== Hi There 👋, I'm GoliathHagar
 
 🎮 I am working as *Software Engineer* +
 👀 I’m interested in *Building* and *Breaking* (*Hacking and CTF*) Software and not only +
 🤝 I’m looking for help with *Mobile* *_UI Design_* +
 🌱 I’m currently learning *CodeQL* +
 
+image:https://img.shields.io/badge/Made%20with-Ascii%20Doc-1f425f.svg[]
 ////
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhagar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark[]
 image::https://github-profile-trophy.vercel.app/?username=goliathhagar[] QL
-////
-== Hi 👋, I'm GoliathHagar
-
-🎮 I am working as *Software Engineer* +
-👀 I’m interested in *Building* and *Breaking* (*Hacking and CTF*) Software and not only +
-🤝 I’m looking for help with *Mobile* *_UI Design_* +
-🌱 I’m currently learning *CodeQL* +
-
-////
-image:https://img.shields.io/badge/Top%20Languages-Dark[]
-image:https://img.shields.io/badge/Github%20Profile%20Trophy-QL[]
 ////
 
 Something interesting... +
@@ -35,10 +25,8 @@ image:exploits_of_a_mom.png[]
 
 === Cybersecurity Projects
 
-https://github.com/GoliathHagar/cryptography-training[image:resource/crypto.png[Crypto,40,40] Cryptography]
-https://github.com/GoliathHagar/distributed_legder_kademlia[
-image:resource/p2p.png[P2p,40,40]
- kademlia & Blockchain]
+https://github.com/GoliathHagar/cryptography-training[image:https://img.shields.io/badge/Cryptography-000?style=for-the-badge&logo=1password&logoColor=3B66BC[]]
+https://github.com/GoliathHagar/distributed_legder_kademlia[image:https://img.shields.io/badge/Kademlia_Public_ledger-000?style=for-the-badge&logo=osf&logoColor=2CB9F1[]]
 
 == Favorites Operating systems
 image:https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white[]
@@ -84,6 +72,7 @@ https://kubernetes.io[image:https://img.shields.io/badge/Kubernetes-326CE5?style
 https://azure.microsoft.com/en-in/[image:https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white[]]
 https://cloud.google.com[image:https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white[]]
 https://www.vagrantup.com/[image:https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white[]]
+https://www.vagrantup.com/[image:https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white[]]
 
 === Web Development
 
@@ -108,7 +97,7 @@ https://www.figma.com/[image:https://img.shields.io/badge/Figma-F24E1E?style=for
 === Other Tools and Technologies
 
 http://ansible.org[image:https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white[]]
-http://jwt.io[image:https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens[]]
+http://jwt.io[image:https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=pink[]]
 https://kafka.apache.org/[image:https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white[]]
 https://firebase.google.com/[image:https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black[]]
 https://grafana.com[image:https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white[]]
@@ -116,3 +105,6 @@ https://www.elastic.co/kibana[image:https://img.shields.io/badge/Kibana-005571?s
 https://opencv.org/[image:https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white[]]
 https://pandas.pydata.org/[image:https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white[]]
 https://www.tensorflow.org[image:https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white[]]
+
+
+
