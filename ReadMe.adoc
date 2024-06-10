@@ -5,8 +5,6 @@ Goliath Hagar <>
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
 :text-align:
 
-
-== About Me
 [.text-left]
 🎮 I am working as *Software Engineer* +
 👀 I’m interested in *Building* and *Breaking* (*Hacking and CTF*) Software and *NOT ONLY* !!! +
