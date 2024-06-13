@@ -101,6 +101,7 @@ image:https://img.shields.io/badge/TI_LaunchPad-000?style=for-the-badge&logo=dat
 image:https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white[]
 image:https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white[]
 image:https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white[]
+image:https://img.shields.io/badge/MIcrochip-E60000?style=for-the-badge&logo=microchip&logoColor=white[]
 
 === Mobile Development
 
