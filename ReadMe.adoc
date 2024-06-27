@@ -19,7 +19,7 @@ image::https://github-readme-stats.vercel.app/api/top-langs/?username=goliathhag
 image::https://github-profile-trophy.vercel.app/?username=goliathhagar[] QL
 ////
 [.text-center]
-Something interesting... 'Never trust user's inputs' +
+Remember 'Never trust user's inputs' +
 image:{docdir}/resource/exploits_of_a_mom.png[]
 
 
