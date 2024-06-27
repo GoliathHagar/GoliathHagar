@@ -4,6 +4,7 @@ Goliath Hagar <>
 :icons: font
 :url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
 :text-align:
+:pdf-page-layout: landscape
 
 [.text-left]
 🎮 I am working as *Software Engineer* +
@@ -40,10 +41,10 @@ https://github.com/GoliathHagar/distributed_legder_kademlia[image:https://img.sh
 https://www.kali.org[image:https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white[]]
 https://parrotsec.org[image:https://img.shields.io/badge/Parrot_os-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white[]]
 https://ubuntu.com[image:https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white[]]
-https://fedoraproject.org[image:https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white[]]
 https://www.redhat.com/en[image:https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white[]]
 https://www.android.com[image:https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white[]]
 image:https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white[]
+https://fedoraproject.org[image:https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white[]]
 image:https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=ios&logoColor=white[]
 
 
